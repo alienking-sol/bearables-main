@@ -1,0 +1,18 @@
+{
+    "price": 1.0,
+    "number": 5890,
+    "gatekeeper": null,
+    "solTreasuryAccount": "INSERT SELLER ADDRESS HERE",
+    "splTokenAccount": null,
+    "splToken": null,
+    "goLiveDate": "10 Mar 2022 01:00:00 GMT",
+    "endSettings": null,
+    "whitelistMintSettings": null,
+    "hiddenSettings": null,
+    "storage": "arweave-sol",
+    "ipfsInfuraProjectId": null,
+    "ipfsInfuraSecret": null,
+    "awsS3Bucket": null,
+    "noRetainAuthority": false,
+    "noMutable": false
+}
