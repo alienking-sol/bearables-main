@@ -10,4 +10,6 @@ Smart contract was written with a clone of the Metaplex standard which can be fo
 
 Front end ReactJS app is an edited clone of tonyboyles' boiler-mint-site found here: https://github.com/tonyboylehub/candymachine-v2-boiler-mint-site-noFLP
 
-And you can find my Twitter here: https://twitter.com/alienking_sol
+You can also find our deployed website here: https://bearables.webflow.io/
+
+And you can find my Twitter here: https://twitter.com/EIPdegen
